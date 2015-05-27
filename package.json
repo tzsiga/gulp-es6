@@ -1,0 +1,15 @@
+{
+  "name": "gulp-es6",
+  "version": "1.0.0",
+  "description": "gulp-es6",
+  "main": "index.js",
+  "author": "tzsiga",
+  "repository": "https://github.com/tzsiga/gulp-es6.git",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-plumber": "^1.0.1"
+  }
+}
